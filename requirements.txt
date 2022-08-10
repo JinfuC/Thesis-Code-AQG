@@ -1,0 +1,5 @@
+pytrends
+spacy
+spacy-dbpedia-spotlight
+sparqlwrapper
+qwikidata
