@@ -1,5 +1,5 @@
 # Code of Question Generation Thesis
-This repository contains the core code of my master thesis **[Asking the Right Question: Generating Difficulty-Ranked Questions from Examples](https://www.scriptiebank.be/scriptie/2022/asking-right-question-generating-difficulty-ranked-questions-examples)** (text can be found at the button **Download scriptie**). This thesis was submitted for the degree of Msc in Engineering: Computer Science at the university of KU Leuven. 
+This repository contains the core code of my master thesis **[Asking the Right Question: Generating Difficulty-Ranked Questions from Examples](https://scriptiebank.be/asking-right-question-generating-difficulty-ranked-questions-examples)** (text can be found at the button **Download scriptie**). This thesis was submitted for the degree of Msc in Engineering: Computer Science at the university of KU Leuven. 
 
 
 The promotor of this thesis was prof. dr. Luc De Raedt and the daily supervisor of this thesis was ir. Thomas Winters.  
